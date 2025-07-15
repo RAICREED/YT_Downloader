@@ -26,7 +26,11 @@ Supports format selection (mp3/mp4), quality control, playlist download, folder 
 
 ## 🚀 Getting Started
 
- Clone the repo:
+ Download:
+ [**DOWNLOAD**](https://github.com/RAICREED/YT_Downloader/releases/download/download/YTdownloader.exe)
+
+OR
+Clone the repo:
    ```bash
    git clone https://github.com/RAICREED/YT_Downloader.git
    cd YT_Downloader
