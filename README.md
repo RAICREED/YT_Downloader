@@ -21,6 +21,12 @@ Supports format selection (mp3/mp4), quality control, playlist download, folder 
 - Dark/light mode toggle
 - Progress bar with percentage
 - Build as `.exe` with PyInstaller
+---
+## 🛠 Requirements
+
+- Works on **Windows 10/11**
+- Needs an active internet connection
+- Optional: For MP3 conversion, make sure `ffmpeg` is installed
 
 ---
 
